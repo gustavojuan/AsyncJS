@@ -4,7 +4,8 @@
   "description": "Examples of Curso for undestandingf Async JS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callback": "node src/callbacks/challenge.js"
   },
   "keywords": [
     "Async",
