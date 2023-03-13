@@ -1,0 +1,19 @@
+{
+  "name": "curso_async",
+  "version": "1.0.0",
+  "description": "Examples of Curso for undestandingf Async JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Async",
+    "JavaScript",
+    "ECMAScript"
+  ],
+  "author": "Gustavo Juan",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
